@@ -1,2 +1,5 @@
-# SpatialTransformerImplementation
-try to reproduce the result of spatial transformer network
+Spatial Transformer Networks
+============================
+
+Hung-Shi Lin (hl2997)
+Zheng Mason Sun (zs2321)
